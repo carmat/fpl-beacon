@@ -6,7 +6,7 @@
         fpl-beacon
       </h1>
       <h2 class="subtitle">
-        Fantasy Premier League Analysis Tool
+        FantasyPL Analysis Tool
       </h2>
       <div class="links">
         <a
